@@ -11,8 +11,8 @@ btsdio.ko
 can-bcm.ko
 can-dev.ko
 can-gw.ko
-can.ko
 can-raw.ko
+can.ko
 cdc-acm.ko
 cdc_eem.ko
 cdc_ether.ko
@@ -22,8 +22,8 @@ ftdi_sio.ko
 gzvm.ko
 hci_uart.ko
 hidp.ko
-ieee802154_6lowpan.ko
 ieee802154.ko
+ieee802154_6lowpan.ko
 ieee802154_socket.ko
 kheaders.ko
 l2tp_core.ko
