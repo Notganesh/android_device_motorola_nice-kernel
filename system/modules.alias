@@ -1111,6 +1111,7 @@ alias usb:v076Dp0006d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v17EFp7000d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v0870p0001d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v045Bp023Cd*dc*dsc*dp*ic*isc*ip*in* cdc_acm
+alias usb:v045Bp0247d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v045Bp0248d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v045Bp024Dd*dc*dsc*dp*ic*isc*ip*in* cdc_acm
 alias usb:v0E8Dp0003d*dc*dsc*dp*ic*isc*ip*in* cdc_acm
